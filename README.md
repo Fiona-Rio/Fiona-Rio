@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... don't know yet
 - 📫 How to reach me fiona.rio@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ???
+- ⚡ Fun fact: I have a butchery diploma
 
 <!---
 Aodhfaolan/Aodhfaolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
