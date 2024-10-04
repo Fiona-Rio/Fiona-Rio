@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aodhfaolan
+- 👋 Hi, I’m Fiona
 - 👀 I’m interested web development 
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ... don't know yet
