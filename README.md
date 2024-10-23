@@ -5,6 +5,6 @@
 - 📫 How to reach me : fiona.rio@outlook.com
 - ⚡ Fun fact: I have a butchery diploma
 
-<p align="center">
+<p align="end">
   <img src="BanniereAda.png" alt="banniere de Ada Tech School" width="400px" height="auto"/>
 </p>
