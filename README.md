@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fiona
-- 👀 I’m interested in web development and we design
+- 👀 I’m interested in web development and web design
 - 🌱 I’m currently learning web development at Ada Tech School
 - 💞️ I’m looking for an intership for february 2025 for a year
 - 📫 How to reach me : fiona.rio@outlook.com
